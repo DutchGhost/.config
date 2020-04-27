@@ -1,0 +1,89 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/ghost/
+	..
+1587402708
+'b
+	/home/ghost/bin/
+	..
+1587402708
+'h
+	/home/ghost/
+	..
+1587402708
+'z
+	/home/ghost/.config/vifm
+	..
+1587402708
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/ghost
+	Downloads
+1
+d/home/ghost/Downloads
+	..
+0
+d/home/ghost
+	..
+0
+d/home
+	ghost
+1
+d/home/ghost
+	wallpapers
+2
+d/home/ghost/wallpapers
+	..
+0
+d/home/ghost
+	..
+0
+d/home
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/ghost
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
