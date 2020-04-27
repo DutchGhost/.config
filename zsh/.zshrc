@@ -26,7 +26,6 @@ alias lt='exa -aT --color=always --group-directories-first' # tree listing
 # Background changer
 alias bg='feh --randomize --bg-fill ~/wallpapers/*'
 
-## TODO:
-# add $HOME/.cargo/bin to the path
 path+=('$HOME/.cargo/bin')
+path+=('$HOME/.zig/stable')
 export PATH
