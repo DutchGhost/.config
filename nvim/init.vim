@@ -1,15 +1,17 @@
 :set relativenumber
 :set termguicolors
-:set t_Co=16
-:set background=light
-let base16colorspace=256
-" let g:edge_style = 'neon'
-" let g:edge_disable_italic_comment = 1
 
 source ~/.config/nvim/plug.vim
 
 :set splitbelow
 :set splitright
-:color solarized8
+
+:color base16-gruvbox-dark-hard
+let g:airline_theme='base16_gruvbox_dark_hard'
+
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
 
 map <C-n> :NERDTreeToggle<CR>

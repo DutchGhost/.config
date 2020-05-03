@@ -6,6 +6,9 @@ Plug 'chriskempson/base16-vim'
 Plug 'lifepillar/vim-solarized8'
 Plug 'preservim/nerdtree'
 Plug 'itchyny/lightline.vim'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
 " Initialize plugin system
 call plug#end()
 
