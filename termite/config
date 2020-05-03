@@ -3,7 +3,7 @@ foreground = #c0c5ce
 foreground_bold = #eee8d5
 cursor = #c0c5ce
 # background transparency (requires a compositor)
-background = rgba(29, 35, 48, 0.80)
+background = rgba(29, 35, 48, 0.95)
 
 [options]
 font = DejaVu Sans Mono 

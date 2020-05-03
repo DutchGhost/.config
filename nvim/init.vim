@@ -9,6 +9,8 @@ source ~/.config/nvim/plug.vim
 :color base16-gruvbox-dark-hard
 let g:airline_theme='base16_gruvbox_dark_hard'
 
+highlight Normal guibg=none
+
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
